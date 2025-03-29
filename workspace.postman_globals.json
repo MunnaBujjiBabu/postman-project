@@ -1,0 +1,38 @@
+{
+	"id": "fb07263a-b4f8-4966-8178-6a976300b185",
+	"values": [
+		{
+			"key": "globalID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalUpdatedName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "gAccessToken",
+			"value": "8608b23eb31b3d8fc58f0b7ab2b503e819ff8fcd7852a927d570093e3b78c684",
+			"type": "default"
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-03-29T09:35:50.638Z",
+	"_postman_exported_using": "Postman/11.37.4"
+}
